@@ -7,7 +7,7 @@
 <p align="center">Log fast. Get your next weight. Earn your rank.</p>
 
 <p align="center">
-  <a href="https://github.com/bhccob/locked-app/releases/latest/download/locked.apk">
-    <img src="https://img.shields.io/badge/Download_for_Android-5A33C4?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
+  <a href="https://lockedlifts.com/#join">
+    <img src="https://img.shields.io/badge/Join_the_waitlist-4824A6?style=for-the-badge&logoColor=white" alt="Join the waitlist">
   </a>
 </p>
